@@ -556,7 +556,7 @@ public:
   // Constructor & destructor.
   tetgenio() {initialize();}
   ~tetgenio() {
-     deinitialize();
+     //deinitialize();
   }
 
 }; // class tetgenio
